@@ -1,0 +1,4 @@
+1.[Open slack as "someone"] <== Login to Slack as user
+2.[Write "something" to Google]       <== Search for phrase in google and get a url
+3.["file" get]                 <== Upload a file to Slack from local
+4.[cmd "command"]                         <== Execute linux commands
